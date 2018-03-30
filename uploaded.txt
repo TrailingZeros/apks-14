@@ -1,3 +1,55 @@
+/Root/apps/ブロックした電話番号用ストレージ_7.0.apk
+/Root/apps/ブロックした電話番号用ストレージ_7.0.systag
+/Root/apps/ブロックした電話番号用ストレージ_7.1.1.apk
+/Root/apps/ブロックした電話番号用ストレージ_7.1.1.systag
+/Root/apps/ベーシックスクリーンセーバー_6.0.1.apk
+/Root/apps/ベーシックスクリーンセーバー_6.0.1.systag
+/Root/apps/ベーシックスクリーンセーバー_7.0.apk
+/Root/apps/ベーシックスクリーンセーバー_7.0.systag
+/Root/apps/ベーシックスクリーンセーバー_7.1.1.apk
+/Root/apps/ベーシックスクリーンセーバー_7.1.1.systag
+/Root/apps/マーケットフィードバックエージェント_6.0.1.apk
+/Root/apps/マーケットフィードバックエージェント_6.0.1.systag
+/Root/apps/マーケットフィードバックエージェント_7.0.apk
+/Root/apps/マーケットフィードバックエージェント_7.0.systag
+/Root/apps/マーケットフィードバックエージェント_7.1.1.apk
+/Root/apps/マーケットフィードバックエージェント_7.1.1.systag
+/Root/apps/メディア ストレージ_7.0.apk
+/Root/apps/メディア ストレージ_7.0.systag
+/Root/apps/メディア ストレージ_7.1.1.apk
+/Root/apps/メディア ストレージ_7.1.1.systag
+/Root/apps/メディアストレージ_6.0.1.apk
+/Root/apps/メディアストレージ_6.0.1.systag
+/Root/apps/仕事用プロファイルの設定_7.0.apk
+/Root/apps/仕事用プロファイルの設定_7.0.systag
+/Root/apps/仕事用プロファイルの設定_7.1.1.apk
+/Root/apps/仕事用プロファイルの設定_7.1.1.systag
+/Root/apps/写真_1.1.40301.apk
+/Root/apps/写真_1.1.40301.systag
+/Root/apps/単語リスト_6.0.1.apk
+/Root/apps/単語リスト_6.0.1.systag
+/Root/apps/単語リスト_7.0.apk
+/Root/apps/単語リスト_7.0.systag
+/Root/apps/単語リスト_7.1.1.apk
+/Root/apps/単語リスト_7.1.1.systag
+/Root/apps/印刷スプーラ_1.apk
+/Root/apps/印刷スプーラ_1.systag
+/Root/apps/印刷スプーラ_7.0.apk
+/Root/apps/印刷スプーラ_7.0.systag
+/Root/apps/印刷スプーラ_7.1.1.apk
+/Root/apps/印刷スプーラ_7.1.1.systag
+/Root/apps/外部ストレージ_6.0.1.apk
+/Root/apps/外部ストレージ_6.0.1.systag
+/Root/apps/外部ストレージ_7.0.apk
+/Root/apps/外部ストレージ_7.0.systag
+/Root/apps/外部ストレージ_7.1.1.apk
+/Root/apps/外部ストレージ_7.1.1.systag
+/Root/apps/携帯通信会社のサービス_2.1.165 (3803553).apk
+/Root/apps/村ショウ鯖公式アプリ_1.3.0.apk
+/Root/apps/端末エミュレータ_1.0.70.apk
+/Root/apps/端末設定_1000.apk
+/Root/apps/緊急情報_7.0.apk
+/Root/apps/緊急情報_7.0.systag
 /Root/apps/ドキュメント_6.0.1.apk
 /Root/apps/ドキュメント_6.0.1.systag
 /Root/apps/ドキュメント_7.0.apk
