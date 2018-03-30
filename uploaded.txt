@@ -1,3 +1,27 @@
+/Root/apps/ドキュメント_6.0.1.apk
+/Root/apps/ドキュメント_6.0.1.systag
+/Root/apps/ドキュメント_7.0.apk
+/Root/apps/ドキュメント_7.0.systag
+/Root/apps/ネットの電話帳_1.0.34.apk
+/Root/apps/ネットの電話帳_1.0.35.apk
+/Root/apps/ネットの電話帳_1.0.36.apk
+/Root/apps/パッケージアクセス支援ツール_6.0.1.apk
+/Root/apps/パッケージアクセス支援ツール_6.0.1.systag
+/Root/apps/パッケージアクセス支援ツール_7.0.apk
+/Root/apps/パッケージアクセス支援ツール_7.0.systag
+/Root/apps/パッケージアクセス支援ツール_7.1.1.apk
+/Root/apps/パッケージアクセス支援ツール_7.1.1.systag
+/Root/apps/パッケージインストーラ_6.0.1.apk
+/Root/apps/パッケージインストーラ_6.0.1.systag
+/Root/apps/パッケージインストーラ_7.0.apk
+/Root/apps/パッケージインストーラ_7.0.systag
+/Root/apps/パッケージインストーラ_7.1.1.apk
+/Root/apps/パッケージインストーラ_7.1.1.systag
+/Root/apps/パーセント・イネイブラー_1.1 (b15).apk
+/Root/apps/ファイル_7.1.1.apk
+/Root/apps/ファイル_7.1.1.systag
+/Root/apps/フェーズビーム_1.0.apk
+/Root/apps/フェーズビーム_1.0.systag
 /Root/apps/セットアップウィザード_2.0.apk
 /Root/apps/セットアップウィザード_2.0.systag
 /Root/apps/セットアップウィザード_224.systag
