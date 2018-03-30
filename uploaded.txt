@@ -1,3 +1,52 @@
+/Root/apps/緊急情報_7.1.1.systag
+/Root/apps/緊急警報_6.0.1.apk
+/Root/apps/緊急警報_6.0.1.systag
+/Root/apps/緊急警報_7.0.apk
+/Root/apps/緊急警報_7.0.systag
+/Root/apps/緊急警報_7.1.1.apk
+/Root/apps/緊急警報_7.1.1.systag
+/Root/apps/設定_6.0.1.systag
+/Root/apps/設定_7.0.systag
+/Root/apps/設定_7.1.1.systag
+/Root/apps/証明書インストーラ_6.0.1.apk
+/Root/apps/証明書インストーラ_6.0.1.systag
+/Root/apps/証明書インストーラ_7.0.apk
+/Root/apps/証明書インストーラ_7.0.systag
+/Root/apps/証明書インストーラ_7.1.1.apk
+/Root/apps/証明書インストーラ_7.1.1.systag
+/Root/apps/認識済みの顔_6.0.1.apk
+/Root/apps/認識済みの顔_6.0.1.systag
+/Root/apps/認識済みの顔_7.0.apk
+/Root/apps/認識済みの顔_7.0.systag
+/Root/apps/認識済みの顔_7.1.1.systag
+/Root/apps/超簡易ランチャー_1.0.apk
+/Root/apps/通話管理_6.0.1.apk
+/Root/apps/通話管理_6.0.1.systag
+/Root/apps/通話管理_7.0.apk
+/Root/apps/通話管理_7.0.systag
+/Root/apps/通話管理_7.1.1.apk
+/Root/apps/通話管理_7.1.1.systag
+/Root/apps/電卓_5.2 (2862625).apk
+/Root/apps/電卓_5.2 (2862625).systag
+/Root/apps/電卓_5.2 (3067468).apk
+/Root/apps/電卓_5.2 (3067468).systag
+/Root/apps/電卓_7.0 (2975989).apk
+/Root/apps/電卓_7.0 (2975989).systag
+/Root/apps/電卓_7.1.1 (3300836).apk
+/Root/apps/電卓_7.2 (3622689).apk
+/Root/apps/電卓_7.2.1 (3719806).apk
+/Root/apps/電話_6.0.136097483.systag
+/Root/apps/電話とSMS用ストレージ_6.0.1.apk
+/Root/apps/電話とSMS用ストレージ_6.0.1.systag
+/Root/apps/電話とSMS用ストレージ_7.0.apk
+/Root/apps/電話とSMS用ストレージ_7.0.systag
+/Root/apps/電話とSMS用ストレージ_7.1.1.apk
+/Root/apps/電話とSMS用ストレージ_7.1.1.systag
+/Root/apps/電話サービス_6.0.1.apk
+/Root/apps/電話サービス_6.0.1.systag
+/Root/apps/電話サービス_7.0.systag
+/Root/apps/電話サービス_7.1.1.systag
+/Root/apps/音声コンパニオン_1.0.apk
 /Root/apps/ブロックした電話番号用ストレージ_7.0.apk
 /Root/apps/ブロックした電話番号用ストレージ_7.0.systag
 /Root/apps/ブロックした電話番号用ストレージ_7.1.1.apk
